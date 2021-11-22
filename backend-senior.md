@@ -1,6 +1,6 @@
 # Test task for senior backend developer position
 
-This test will be based on the some of the platforms we work with. The candidate will create a Django  project that:
+### This test will be based on the some of the platforms we work with. The candidate will create a Django  project that:
 
 1. Creates Users and save them in a local PostreSQL database
 
@@ -19,7 +19,7 @@ This test will be based on the some of the platforms we work with. The candidate
 
 The project will be deployed on *Digital Ocean*
 
-The goal is to test the candidates' ability to:
+### The goal is to test the candidates' ability to:
 
 1. Work with 3rd party APIs
 2. Secure intergrations 
@@ -34,7 +34,7 @@ The goal is to test the candidates' ability to:
 11. Learn and use new tools quickly 
 
 
-Tools and platforms 
+### Tools and platforms 
 
 1. Python 3.10.0 
 2. Django 3.2.9
