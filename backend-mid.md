@@ -1,4 +1,4 @@
-# Test task for senior backend developer position
+# Test task for backend developer position
 
 ----
 
@@ -6,12 +6,12 @@
 
 1. Create Users and save them in a PostgreSQL database
 2. Implement an authentication layer that:
-   - uses emails and passwords. **The password MUST generated on server side and email the user via a background task**.
+   - uses emails and passwords. **The password MUST be generated on server side and email the user via a background task**.
    - has `forgot password` option 
    - returns an auth token on successful login
    
-3. Generate random call logs for 5 customers and generates weekly reports for customers 
-    - call rates are region based _(a CSV file must be provided by community phone)_
+3. Generate random call logs for 5 customers and generate weekly reports for customers 
+    - call rates are region based _(we will provide you with a CSV file)_
 
 Deploy the project on **Digital Ocean**.
 
