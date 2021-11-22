@@ -34,3 +34,7 @@ Deploy the project on **Digital Ocean**.
 3. PostgreSQL 9.6
 4. Chargebee
 5. Digital Ocean 
+
+### Timing
+
+We expect that you are able to finish this task in 8 hours.
